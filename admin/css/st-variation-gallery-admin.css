@@ -1,0 +1,6 @@
+.st-variation-gallery-wrap{margin-top:15px}
+.st-variation-gallery-images{display:flex;flex-wrap:wrap;gap:8px;list-style:none;margin:10px 0;padding:0}
+.st-gallery-image{position:relative;width:60px;height:60px;border:1px solid #ddd;cursor:move;background:#f7f7f7}
+.st-gallery-image img{width:100%;height:100%;object-fit:cover}
+.st-remove-image{position:absolute;top:-8px;right:-8px;width:18px;height:18px;background:#d63638;color:#fff;border-radius:50%;text-decoration:none;text-align:center;line-height:16px;font-size:14px}
+.st-remove-image:hover{background:#a00;color:#fff}
